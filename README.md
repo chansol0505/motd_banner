@@ -4,3 +4,5 @@ http://patorjk.com/software/taag/#p=display&f=Slant%20Relief&t=2012%0AYEOSU%0AEX
 python double-blackslash.py banner.txt
 ## 3) setup
 mv motd.sh /etc/update-motd.d/10-help-text
+## 4) restart shell
+![alt text](example/example.png "poc")
