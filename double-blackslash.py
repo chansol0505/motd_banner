@@ -21,3 +21,4 @@ with open(output_sh, 'w') as f:
             f.write('printf "')
         else:
             f.write(c)
+    f.write('"')
